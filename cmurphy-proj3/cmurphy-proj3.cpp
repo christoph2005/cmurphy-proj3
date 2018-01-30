@@ -232,7 +232,7 @@ void mouseFcn(GLint button, GLint action, GLint x, GLint y){
 		break;
 	}
 }
-
+ 
 void keyFunc(unsigned char c, int x, int y){
 	switch (c){
 	case 'S':
